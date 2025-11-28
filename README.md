@@ -1,4 +1,5 @@
 ***This repository contains Python implementations of Simple Linear Regression (SLR) and Multiple Linear Regression (MLR) for predictive modeling and exploring relationships between variables.***
+
 **Linear Regression (LR)**
 
 Linear regression is a foundational statistical and machine learning technique used to model the linear relationship between a dependent variable (the target) and one or more independent variables (the features). Its primary goal is to find the "best-fit" line or hyperplane that minimizes the prediction errors.
